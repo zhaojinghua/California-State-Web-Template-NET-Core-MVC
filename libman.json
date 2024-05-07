@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "@cagovweb/state-template@6.3.1",
+      "destination": "lib\\cagovweb/state-template"
+    }
+  ]
+}
